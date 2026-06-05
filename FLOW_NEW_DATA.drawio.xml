@@ -597,7 +597,7 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="740" width="1000" x="81.00000000000003" y="2370" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="GŁOWNA BAZA SOF2 na&amp;nbsp;192.168.0.23" vertex="1">
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="GŁOWNA BAZA SOF2 na&amp;nbsp;192.168.0.23" vertex="1">
           <mxGeometry height="80" width="415" x="135" y="2456" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-75" parent="1" style="fontSize=14px;fontColor=#1976d2;fontStyle=bold;align=lefttext;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 2: TRANSFORMACJA" vertex="1">

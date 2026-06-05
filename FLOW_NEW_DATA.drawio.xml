@@ -825,13 +825,13 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="660" width="740" x="590" y="3210" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-206" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="Tabele&amp;nbsp; PROD na serwerze&lt;div&gt;192.168.0.23&lt;/div&gt;" vertex="1">
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-206" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="GŁOWNA BAZA SOF2 na 192.168.0.25" vertex="1">
           <mxGeometry height="100" width="120" x="665" y="3290" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-207" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="Tabele&amp;nbsp; PROD na serwerze&lt;div&gt;192.168.0.23&lt;/div&gt;" vertex="1">
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-207" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="GŁOWNA BAZA SOF2 na 192.168.0.25" vertex="1">
           <mxGeometry height="100" width="120" x="820" y="3290" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-208" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="Tabele&amp;nbsp; PROD na serwerze&lt;div&gt;192.168.0.23&lt;/div&gt;" vertex="1">
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-208" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="GŁOWNA BAZA SOF2 na 192.168.0.25" vertex="1">
           <mxGeometry height="100" width="120" x="968.75" y="3290" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-209" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;&#xa;fontSize=14px;fontColor=#f57c00;fontStyle=bold;align=left" value="STAGE 5: OI, PF i Mailing" vertex="1">

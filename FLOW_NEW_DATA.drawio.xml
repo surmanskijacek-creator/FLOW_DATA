@@ -600,14 +600,8 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="740" width="1000" x="81.00000000000003" y="2370" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="WENET/&lt;div&gt;UPLOAD_GUS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="135.00000000000003" y="2456" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="WENET/&lt;div&gt;UPLOAD_CEIDG&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="120" x="285" y="2456" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="TABELE STANDARD" vertex="1">
-          <mxGeometry height="80" width="120" x="435" y="2456" as="geometry" />
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="GŁOWNA BAZA SOF2 na&amp;nbsp;192.168.0.23" vertex="1">
+          <mxGeometry height="80" width="415" x="135" y="2456" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-75" parent="1" style="fontSize=14px;fontColor=#1976d2;fontStyle=bold;align=lefttext;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STAGE 2: TRANSFORMACJA" vertex="1">
           <mxGeometry height="40" width="210" x="255" y="2586" as="geometry" />
@@ -639,7 +633,7 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#2e7d32;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="10.6.0.160" vertex="1">
           <mxGeometry height="20" width="120" x="435" y="2676" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;" value="Wlewami do Tablic zarządza Jacek Surmański, update na bazie to kontrola po stronie admisnistratora Paweł Werner" vertex="1">
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-85" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;" value="Właściciel Marek Ratajczak, on też zarządza, Administrator Paweł Werner." vertex="1">
           <mxGeometry height="554" width="117.5" x="607.5" y="2476" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-86" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZARZĄDZA" vertex="1">
@@ -690,15 +684,6 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-101" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="&lt;div&gt;Tabele&amp;nbsp; PROD na serwerze&lt;div&gt;192.168.0.23&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="435" y="2946.25" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;" value="LOGI&lt;div&gt;KONTROLA&lt;/div&gt;&lt;div&gt;MAILE&lt;/div&gt;&lt;div&gt;MANUAL CHECK&lt;/div&gt;" vertex="1">
-          <mxGeometry height="554" width="117.5" x="745" y="2476" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="MONITORING" vertex="1">
-          <mxGeometry height="20" width="117.5" x="745" y="2456" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="3 x WEEK" vertex="1">
-          <mxGeometry height="20" width="120" x="744.5" y="3026.25" as="geometry" />
-        </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="NON STOP" vertex="1">
           <mxGeometry height="20" width="117.5" x="607" y="3026.25" as="geometry" />
         </mxCell>
@@ -713,9 +698,6 @@
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="1 x MONTH" vertex="1">
           <mxGeometry height="20" width="118.75" x="884.25" y="3026.25" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-110" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="IN" vertex="1">
-          <mxGeometry height="20" width="120" x="135.00000000000003" y="2536" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="SQL" vertex="1">
           <mxGeometry height="20" width="120" x="135.00000000000003" y="2556" as="geometry" />
@@ -732,9 +714,6 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="SQL" vertex="1">
           <mxGeometry height="20" width="120" x="284.78" y="2905.5" as="geometry" />
         </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="IN" vertex="1">
-          <mxGeometry height="20" width="120" x="285" y="2536" as="geometry" />
-        </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="SQL" vertex="1">
           <mxGeometry height="20" width="120" x="285" y="2556" as="geometry" />
         </mxCell>
@@ -743,9 +722,6 @@
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-119" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="SQL/EXCEL" vertex="1">
           <mxGeometry height="20" width="120" x="435" y="2906.25" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="IN" vertex="1">
-          <mxGeometry height="20" width="120" x="435" y="2536" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="SQL" vertex="1">
           <mxGeometry height="20" width="120" x="435" y="2556" as="geometry" />
@@ -791,12 +767,6 @@
         </mxCell>
         <mxCell id="FcSs8HRQMY9BOlToF2ux-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;&#xa;fontSize=14px;fontColor=#f57c00;fontStyle=bold;align=left" value="STAGE 4: BAZA WeNet" vertex="1">
           <mxGeometry height="40" width="210" x="690" y="2390" as="geometry" />
-        </mxCell>
-        <mxCell id="O7RMnfBGz2NkMwawbxaz-136" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="520" y="2460" as="sourcePoint" />
-            <mxPoint x="570" y="2410" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

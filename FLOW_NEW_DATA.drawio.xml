@@ -870,6 +870,9 @@
         <mxCell id="O7RMnfBGz2NkMwawbxaz-219" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;MAILING&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="997.5" y="3240" as="geometry" />
         </mxCell>
+        <mxCell id="O7RMnfBGz2NkMwawbxaz-220" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="405" width="760" x="1510" y="1205" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

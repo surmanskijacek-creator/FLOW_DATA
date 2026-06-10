@@ -993,6 +993,15 @@
         <mxCell id="VNfcnrNjSl7DNzXELDqf-59" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;" value="FLOW" vertex="1">
           <mxGeometry height="522.5" width="50" x="1092" y="3287.5" as="geometry" />
         </mxCell>
+        <mxCell id="VNfcnrNjSl7DNzXELDqf-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="330" width="830" x="1473" y="1997.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VNfcnrNjSl7DNzXELDqf-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Do Bazy Pośredniej wpadają dane przetworzone wcześniej z innych żródeł. Baza/tabele/prcedury te sprawdzaja jakość danych, słownikują je, sprawdzają czy nie ma dubli, słownikują dane, sprawdzają czy takie dane już wcześniej się nie pojawiły. Jeżeli jest taka potrzeba wbazie pośredniej zmieniany jest typ rekordu np z A na N, jeśli np okazałby się ze aktualizowany rekord nie występuje w naszej bazie. Tabele pośrednie, które przetwarzają dane z API, nadają na naszej bazie głownej znaczniki i statusy w zależności od typu rekordu. Np typ BA nadaje status adres brak na naszej bazoe, a znacznik ALN sprawdza czy zlikidowana wcześniej firma może zostać powołana na nowo. Prz okazji tego procesu dodawany jest znacznik day aktuuazacji rekordu ,a także SFP, vczy też branża. Tabele pośrednie typu standard służą do samodzielnego dodawania danych do bazy bądz ich modyfikowania, Poczawszy od telefonów a kończąc na np zmianie kodu PKD. Tabale te służą też do oznaczania &quot;złych&quot; danych na bazie gdzyż takie informacje masowo dostajemy przy wysyłaniu mailingów/sms..&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="405" width="760" x="1513" y="1972.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VNfcnrNjSl7DNzXELDqf-63" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;FAQ:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="1508" y="2016" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

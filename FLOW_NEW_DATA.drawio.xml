@@ -832,7 +832,7 @@
           <mxGeometry height="100" width="120" x="1288.75" y="3340" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-209" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;&#xa;fontSize=14px;fontColor=#f57c00;fontStyle=bold;align=left" value="STAGE 5: OI, PF i Mailing" vertex="1">
-          <mxGeometry height="40" width="210" x="1420" y="3290" as="geometry" />
+          <mxGeometry height="40" width="210" x="1730" y="3278.5" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-210" edge="1" parent="1" source="O7RMnfBGz2NkMwawbxaz-71" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="O7RMnfBGz2NkMwawbxaz-205" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -1520,6 +1520,12 @@
         </mxCell>
         <mxCell id="aYkfEaGuwM5-uKkzw_9x-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="KONIEC PROCESU" vertex="1">
           <mxGeometry height="20" width="119" x="1287.75" y="3862" as="geometry" />
+        </mxCell>
+        <mxCell id="aYkfEaGuwM5-uKkzw_9x-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;UŻYCZANIE&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="59.5" x="1461" y="3287.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aYkfEaGuwM5-uKkzw_9x-11" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="GŁOWNA BAZA SOF2 na 192.168.0.25" vertex="1">
+          <mxGeometry height="100" width="120" x="1436.36" y="3340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

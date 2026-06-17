@@ -1527,6 +1527,15 @@
         <mxCell id="aYkfEaGuwM5-uKkzw_9x-11" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="GŁOWNA BAZA SOF2 na 192.168.0.25" vertex="1">
           <mxGeometry height="100" width="120" x="1436.36" y="3340" as="geometry" />
         </mxCell>
+        <mxCell id="aYkfEaGuwM5-uKkzw_9x-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="330" width="830" x="2110" y="3585" as="geometry" />
+        </mxCell>
+        <mxCell id="aYkfEaGuwM5-uKkzw_9x-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Grupa procesów RODO. Obowiązek Informacyjny wysyłamy dla całej Grupy jeden. Na bazie Wenet S.A. Osobny OI wysyłamy dla produktu użyczanie gdzie wysyłamy emaili i sms - takie sa wymagania działu prawnego i IOD. Upload/update do bazy PF pochodzi z bazy WeNet S.A., która jest jego repozytorium. Jedyne przypadki gdy dane trafiaja innym kanałem jest ECRM gdzie są obsługiwane zgłoszenia z zaplecz/DOK. Baza dla użyczania jest tworzona na bazie PF, i jest ściśle określone co w niej może się znależź. Na niej tez jest tworzone ewidecja udostępniania danych - za jej pomocą informujemy zewnetrzne podmioty o potrzebie wycoofania danych.&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="405" width="760" x="2150" y="3560" as="geometry" />
+        </mxCell>
+        <mxCell id="aYkfEaGuwM5-uKkzw_9x-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;FAQ:&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="2145" y="3603.25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

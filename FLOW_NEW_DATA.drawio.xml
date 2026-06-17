@@ -589,7 +589,7 @@
           <mxGeometry height="34" width="120" x="429.06" y="1970" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="721" width="1000" x="73" y="2369" as="geometry" />
+          <mxGeometry height="591" width="1000" x="73" y="2369" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="GŁOWNA BAZA SOF2 na&amp;nbsp;192.168.0.23" vertex="1">
           <mxGeometry height="80" width="415" x="135" y="2456" as="geometry" />

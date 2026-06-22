@@ -1398,7 +1398,7 @@
         <mxCell id="5PAaCxJaAVW7Nc0RNcNP-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="GDZIE IDĄ DANE" vertex="1">
           <mxGeometry height="20" width="120" x="1571.5" y="588.38" as="geometry" />
         </mxCell>
-        <mxCell id="5PAaCxJaAVW7Nc0RNcNP-90" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" value="BAZA RAPORTOWA 192.168.0.25" vertex="1">
+        <mxCell id="5PAaCxJaAVW7Nc0RNcNP-90" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;" value="BAZA RAPORTOWA 192.168.0.25 oraz pełen raport do Windykacji" vertex="1">
           <mxGeometry height="100" width="120" x="1571.5" y="608.38" as="geometry" />
         </mxCell>
         <mxCell id="5PAaCxJaAVW7Nc0RNcNP-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="IN" vertex="1">

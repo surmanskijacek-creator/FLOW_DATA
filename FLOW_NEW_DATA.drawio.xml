@@ -1371,7 +1371,7 @@
           <mxGeometry height="52.25" width="84.72" x="-123.36" y="3500" as="geometry" />
         </mxCell>
         <mxCell id="5PAaCxJaAVW7Nc0RNcNP-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8e6c9;strokeColor=#2e7d32;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="KRD" vertex="1">
-          <mxGeometry height="80" width="120" x="1571" y="127.12999999999997" as="geometry" />
+          <mxGeometry height="80" width="120" x="1571" y="126.12999999999997" as="geometry" />
         </mxCell>
         <mxCell id="5PAaCxJaAVW7Nc0RNcNP-81" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="CSV" vertex="1">
           <mxGeometry height="20" width="120" x="1571" y="227.12999999999997" as="geometry" />

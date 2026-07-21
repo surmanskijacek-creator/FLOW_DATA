@@ -2111,10 +2111,10 @@
           <mxGeometry height="100" width="534.21" x="-360.40999999999997" y="7393" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;fontColor=#333333;" value="KIEDY - CZAS" vertex="1">
-          <mxGeometry height="40" width="359" x="172" y="7180" as="geometry" />
+          <mxGeometry height="40" width="128" x="172" y="7180" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;fontColor=#333333;" value="TRIGGER PO ZMIANE" vertex="1">
-          <mxGeometry height="60" width="359" x="172" y="7220" as="geometry" />
+          <mxGeometry height="60" width="128" x="172" y="7220" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ID_KLIENTA" vertex="1">
           <mxGeometry height="40" width="319" x="532.76" y="7393" as="geometry" />
@@ -2125,8 +2125,14 @@
         <mxCell id="4suhXPTFK6CYcBQkADmw-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="&lt;font&gt;ZRODLA DANYCH&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="281.5" x="850" y="7393" as="geometry" />
         </mxCell>
-        <mxCell id="4suhXPTFK6CYcBQkADmw-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="FIRMA_CERTYFIKAT + DANE ODDZIALY" vertex="1">
+        <mxCell id="4suhXPTFK6CYcBQkADmw-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="FIRMA_CERTYFIKAT + DANE ODDZIALY - CERTYFIKOWANE - O ZADAYM POZIOMIE ZAUFANIA&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="281.5" x="846.75" y="7433" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZRODLO CERTYFIKATU" vertex="1">
+          <mxGeometry height="40" width="230" x="300" y="7180" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZRODLO/POZIOM ZAUFANIA" vertex="1">
+          <mxGeometry height="60" width="227" x="303" y="7220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

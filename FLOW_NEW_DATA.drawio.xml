@@ -2077,8 +2077,8 @@
         <mxCell id="4suhXPTFK6CYcBQkADmw-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="&lt;font&gt;TRIGER DO SYSTEMÓW&amp;nbsp; - INSERT UPDATE - COS SIE WYDARZYLO&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="281.5" x="851.6500000000001" y="7050" as="geometry" />
         </mxCell>
-        <mxCell id="4suhXPTFK6CYcBQkADmw-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="DANE -&amp;nbsp; ODDZIALY TYLKO CERTYFIKOWANE" vertex="1">
-          <mxGeometry height="30" width="318.49" x="-388.49" y="7140" as="geometry" />
+        <mxCell id="4suhXPTFK6CYcBQkADmw-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="DANE -&amp;nbsp; ODDZIALY TYLKO CERTYFIKOWANE - DO USTALENIA PROCES POTWIERDZANIA DANYC - REGUŁY&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="1558.49" x="-388.49" y="7140" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-56" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="POBIERAMY ODDZIALY Z CRM - WALIDUJEMY JE CZY NOWY ODDDZIAL TO ODDZIAL A NIE CENTRALA ( STARY ADRES)" vertex="1">
           <mxGeometry height="100" width="534.21" x="-363.23" y="7180" as="geometry" />

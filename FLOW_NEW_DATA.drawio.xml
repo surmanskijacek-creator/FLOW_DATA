@@ -2302,6 +2302,12 @@
         <mxCell id="ZANxAz6-e4-NhOaItx8u-56" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;" value="FLOW" vertex="1">
           <mxGeometry height="522.5" width="50" x="1194.44" y="4860" as="geometry" />
         </mxCell>
+        <mxCell id="ZANxAz6-e4-NhOaItx8u-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;&#xa;fontSize=14px;fontColor=#f57c00;fontStyle=bold;align=left" value="STAGE 9: DANE DODATKOWE" vertex="1">
+          <mxGeometry height="40" width="210" x="628" y="4830" as="geometry" />
+        </mxCell>
+        <mxCell id="ZANxAz6-e4-NhOaItx8u-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;&#xa;fontSize=14px;fontColor=#f57c00;fontStyle=bold;align=left" value="STAGE 10: DANE STATYSTYCZNE" vertex="1">
+          <mxGeometry height="40" width="210" x="1219" y="4806.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

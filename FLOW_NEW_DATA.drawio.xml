@@ -7,7 +7,7 @@
         </object>
         <mxCell id="1" parent="0" />
         <mxCell id="ZANxAz6-e4-NhOaItx8u-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="670" width="625" x="976" y="4800" as="geometry" />
+          <mxGeometry height="650" width="494" x="976" y="4810" as="geometry" />
         </mxCell>
         <mxCell id="O7RMnfBGz2NkMwawbxaz-205" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="660" width="1050" x="910" y="3260" as="geometry" />
@@ -2150,7 +2150,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="670" width="625" x="285" y="4810" as="geometry" />
+          <mxGeometry height="650" width="625" x="285" y="4810" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-4" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="RAPORT PRESALES" vertex="1">
           <mxGeometry height="100" width="120" x="350.15" y="4895" as="geometry" />
@@ -2237,13 +2237,13 @@
           <mxGeometry height="44" width="71.3" x="541" y="5058.5" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;" value="WŁAŚCICIEL:&amp;nbsp;&lt;br&gt;ATHENA / Piotr RYTEL&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;IHOST - MICHAL PROKOPIUK&lt;br&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="475.5" width="117.5" x="698.5" y="4910" as="geometry" />
+          <mxGeometry height="475.5" width="117.5" x="710.5" y="4910" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZARZĄDZA" vertex="1">
-          <mxGeometry height="20" width="117.5" x="697.5" y="4895" as="geometry" />
+          <mxGeometry height="20" width="117.5" x="711" y="4890" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="PRZY PROCESIE" vertex="1">
-          <mxGeometry height="23.5" width="117.5" x="697.5" y="5386.5" as="geometry" />
+          <mxGeometry height="23.5" width="117.5" x="710.5" y="5385.5" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-36" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="DANE STATYSTYCZNE" vertex="1">
           <mxGeometry height="100" width="120" x="1064.73" y="4860" as="geometry" />
@@ -2285,16 +2285,22 @@
           <mxGeometry height="50" width="120" x="1064.23" y="5023.5" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;labelBackgroundColor=none;labelBorderColor=none;fillStyle=auto;" value="&lt;div&gt;WŁAŚCiCIEL:&lt;/div&gt;&lt;div&gt;ŁUKASZ KRZEMIŃSKI&lt;/div&gt;" vertex="1">
-          <mxGeometry height="490" width="117.5" x="1245.44" y="4874.5" as="geometry" />
+          <mxGeometry height="485.5" width="117.5" x="1254.75" y="4875.5" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZARZĄDZA" vertex="1">
-          <mxGeometry height="20" width="117.5" x="1245.44" y="4855.5" as="geometry" />
+          <mxGeometry height="20" width="117.5" x="1254.75" y="4855.5" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="PRZY PROCESIE" vertex="1">
-          <mxGeometry height="20" width="117.5" x="1244.44" y="5365.5" as="geometry" />
+          <mxGeometry height="20" width="117.5" x="1254.75" y="5361" as="geometry" />
         </mxCell>
         <mxCell id="ZANxAz6-e4-NhOaItx8u-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="FRONT" vertex="1">
           <mxGeometry height="30" width="60" x="1093.37" y="4818" as="geometry" />
+        </mxCell>
+        <mxCell id="ZANxAz6-e4-NhOaItx8u-55" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;" value="FLOW" vertex="1">
+          <mxGeometry height="522.5" width="50" x="647.5" y="4895" as="geometry" />
+        </mxCell>
+        <mxCell id="ZANxAz6-e4-NhOaItx8u-56" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;" value="FLOW" vertex="1">
+          <mxGeometry height="522.5" width="50" x="1194.44" y="4860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

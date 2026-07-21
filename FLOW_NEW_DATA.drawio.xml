@@ -1976,22 +1976,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-1" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="NOWE ID ( kiedy powstaje)" vertex="1">
-          <mxGeometry height="100" width="120" x="-382.35" y="5830" as="geometry" />
+          <mxGeometry height="100" width="120" x="-363.23" y="6740" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-3" parent="1" style="rounded=0;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=13;" value="GUS - ID REGON&lt;div&gt;CEIDG - identyfikator NIP i UCSID&lt;/div&gt;&lt;div&gt;WYJATKOWO DN&lt;/div&gt;" vertex="1">
-          <mxGeometry height="480" width="669.85" x="-357.85" y="6260" as="geometry" />
+          <mxGeometry height="480" width="669.85" x="-338.73" y="7170" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ZRODLA" vertex="1">
-          <mxGeometry height="40" width="120" x="-382.35" y="5930" as="geometry" />
+          <mxGeometry height="40" width="120" x="-363.23" y="6840" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="CEIDG&lt;div&gt;GUS&lt;/div&gt;&lt;div&gt;CRM? (zgloszenie, pracownik, rynek)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="120" x="-382.35" y="5970" as="geometry" />
+          <mxGeometry height="140" width="120" x="-363.23" y="6880" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-7" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="CZY JUŻ MAMY ? ( NIP,REGON,UCSID)" vertex="1">
-          <mxGeometry height="100" width="539.85" x="-259.85" y="5830" as="geometry" />
+          <mxGeometry height="100" width="539.85" x="-240.73000000000002" y="6740" as="geometry" />
         </mxCell>
         <mxCell id="4suhXPTFK6CYcBQkADmw-8" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="TABELA POŚREDNIA" vertex="1">
-          <mxGeometry height="180" width="539.85" x="-262.35" y="5930" as="geometry" />
+          <mxGeometry height="180" width="539.85" x="-243.23000000000002" y="6840" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="DANE API PODBRĄZ" vertex="1">
+          <mxGeometry height="30" width="182.35" x="-401.85" y="6350" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;horizontal=0;" value="FLOW" vertex="1">
+          <mxGeometry height="535" width="50" x="439.22" y="6740" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-11" parent="1" style="rounded=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle;whiteSpace=wrap;" value="DANE SUROWE - CEIDG, GUS, META DANE" vertex="1">
+          <mxGeometry height="100" width="539.85" x="-359" y="6400" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="DANE - BRAZ 2" vertex="1">
+          <mxGeometry height="30" width="182.35" x="-382.2" y="6690" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="ENCJE" vertex="1">
+          <mxGeometry height="40" width="319" x="181" y="6400" as="geometry" />
+        </mxCell>
+        <mxCell id="4suhXPTFK6CYcBQkADmw-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2&#xa;fontSize=11px;align=center;verticalAlign=middle" value="2 ENCJE (CEIDG,GUS)" vertex="1">
+          <mxGeometry height="60" width="319" x="181" y="6440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
